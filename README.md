@@ -34,13 +34,13 @@ To explore or modify the code, follow these steps:
 
 ## Features
 
-1️⃣ Responsive design: The website adapts seamlessly to different screen sizes and devices.
+1️⃣  Responsive design: The website adapts seamlessly to different screen sizes and devices.
 
-2️⃣ Bootstrap components: Utilizes a variety of pre-built Bootstrap components for quick and efficient development.
+2️⃣  Bootstrap components: Utilizes a variety of pre-built Bootstrap components for quick and efficient development.
 
-3️⃣ Visually appealing: The website employs attractive templates from Bootstrap's examples section for an appealing look.
+3️⃣  Visually appealing: The website employs attractive templates from Bootstrap's examples section for an appealing look.
 
-4️⃣ Easy to customize: The Bootstrap framework allows for easy customization and modification of the site's design and layout.
+4️⃣  Easy to customize: The Bootstrap framework allows for easy customization and modification of the site's design and layout.
 
 
 
